@@ -27,17 +27,17 @@ To Get Started
 Examples
 --------
 
-  * [Hello Map](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/hello_map.html)
-  * [Markers](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/marker.html)
-  * [My Address](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/marker_with_address.html)
-  * [Where am I?](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/marker_with_current_position.html)
-  * [Controls](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/map_control.html)
-  * [Map Options](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/map_options.html)
-  * [Shapes(Rectangle, Triangle, Image)](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/shape.html)
-  * [Events](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/events.html)
-  * [Bird Eyes View/Street View](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/bird_eyes_and_street_view.html)
-  * [Multiple Maps On A Page](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/multiple_maps_on_a_page.html)
-  * [Index of Examples](https://rawgithub.com/allenhwkim/angularjs-google-maps/master/examples/index.html)
+  * [Hello Map](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/hello_map.html)
+  * [Markers](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/marker.html)
+  * [My Address](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/marker_with_address.html)
+  * [Where am I?](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/marker_with_current_position.html)
+  * [Controls](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/map_control.html)
+  * [Map Options](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/map_options.html)
+  * [Shapes(Rectangle, Triangle, Image)](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/shape.html)
+  * [Events](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/events.html)
+  * [Bird Eyes View/Street View](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/bird_eyes_and_street_view.html)
+  * [Multiple Maps On A Page](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/multiple_maps_on_a_page.html)
+  * [Index of Examples](https://raw.github.com/allenhwkim/angularjs-google-maps/master/examples/index.html)
 
 To use it in your app, please include 'ngMap' as dependency to your app.
 
